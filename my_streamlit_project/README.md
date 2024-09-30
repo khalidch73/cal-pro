@@ -37,3 +37,6 @@ cd my_streamlit_project
 ```bash 
 poetry run streamlit run streamlit_app.py
 ```
+5. deploy on streamliit
+
+https://pro-cal.streamlit.app/
